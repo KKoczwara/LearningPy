@@ -38,7 +38,4 @@ def main():
 
     print(short_defib_list[shortest_distance_index][0])
        
-#main()
-a = ('x', 'y')
-
-a[0] = 'c'
+main()
