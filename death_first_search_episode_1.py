@@ -1,3 +1,5 @@
+# https://www.codingame.com/training/medium/death-first-search-episode-1
+
 import sys
 import math
 from collections import defaultdict
